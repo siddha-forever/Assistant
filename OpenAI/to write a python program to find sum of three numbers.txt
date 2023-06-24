@@ -1,0 +1,13 @@
+OpenAI response for Prompt: use intelligence to write a python program to find sum of three numbers 
+ *************************
+
+
+
+def sum_of_three_numbers(a, b, c):
+    return a + b + c
+
+# calling the function
+sum = sum_of_three_numbers(10, 20, 30)
+
+# printing the result
+print("The sum of three numbers is:", sum)
