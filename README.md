@@ -1,5 +1,5 @@
 # Assistant
-AI Voice Assistant
+AI Voice Assistant using OpenAI
 
 Features of the AI Voice Assistant : 
 
