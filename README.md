@@ -1,4 +1,4 @@
-## Maky A.I System
+## Maky A.I. System
 
 Welcome to Siddha’s Maky A.I System, an intelligent virtual assistant designed to streamline your daily tasks and provide valuable information through voice commands. This AI system is built using Python and integrates various APIs and libraries to offer a range of functionalities.
 
